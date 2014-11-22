@@ -1,0 +1,11 @@
+{
+  "name": "NodeExpress",
+  "version": "0.1",
+  "private": "true",
+  "dependencies": {
+    "express": "4.10.2",
+    "jade": "*",
+    "stylus": "*",
+    "nib": "*"
+  }
+}
